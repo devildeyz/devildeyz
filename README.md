@@ -21,7 +21,7 @@ Ben, dijital dünyada karmaşık zorluklara karşı **sade, ölçeklenebilir ve 
 ---
 
 ## 📞 Benimle İletişime Geçin (Connect with Me)
-
+devildeyz666@gmail.com
 Yeni teknolojiler, işbirliği fırsatları veya zorlu bir kod problemi hakkında konuşmak için her zaman hazırım.
 
 **Profesyonel iletişim için lütfen GitHub profilimdeki bağlantıları kullanın.**
